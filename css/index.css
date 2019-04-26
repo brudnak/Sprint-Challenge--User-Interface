@@ -144,3 +144,24 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* Start of header navigation */
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 20px 0px 40px;
+
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+}
+/* End of header navigation */
+
+/* Start of header-hero class */
+.header-hero {
+    margin-bottom: 25px;
+}
+/* End of header-hero class */
