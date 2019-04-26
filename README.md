@@ -47,6 +47,7 @@ Starting from the outside and going inwards to the center as follows: margin, bo
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
 This will work on the cross-axis, which is vertical i.e. up and down. Which is perpendicular to the main-axis which is horizontal i.e left to right. I’ve included an image below to better help visualize how these axis work when using flexbox. 
+![Image of flexbox axis](https://i.stack.imgur.com/9Oxw7.png
 
 5. Explain why git is valuable to a team of developers.
 
